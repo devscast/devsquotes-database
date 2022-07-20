@@ -5,3 +5,4 @@ inspirational technology quotes lovingly chosen and translated in French by the 
 ### main sources
 - Code Wisdom : https://twitter.com/CodeWisdom
 - Def Programming : https://github.com/daviferreira/defprogramming.com/blob/master/src/data/quotes.json
+- Programming Quotes : https://programming-quotes-api.herokuapp.com/quotes
